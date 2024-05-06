@@ -34,6 +34,7 @@ For testing, you would want to ensure that the compression and decompression, ta
 # RUN INSTALLATIONS:
 
 clone the repository: git clone https://github.com/Fabricempozenzi/file_compression.git 
+
 run mvn compile to compile the project
 
 #RUN EXAMPLE:
